@@ -1,0 +1,5 @@
+com\akhil\chotastore\productdetails\service\ProductDetailServiceImpl.class
+com\akhil\chotastore\productdetails\service\ProductDetailService.class
+com\akhil\chotastore\productdetails\ProductDetailsApplication.class
+com\akhil\chotastore\productdetails\dao\ProductDetailRepository.class
+com\akhil\chotastore\productdetails\entity\Product.class
